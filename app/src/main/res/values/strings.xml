@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MyHelloGit</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">My Settings</string>
 </resources>
